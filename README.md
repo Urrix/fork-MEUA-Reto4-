@@ -1,7 +1,7 @@
-# ¡Bienvenido a la práctica de Git!
-Este repositorio es un lugar seguro para practicar los conceptos básicos de Git. ¡Prueba una rebase sin arriesgar ningún código importante! ¡Aprende a sincronizar desde un repositorio anterior! ¡Resolver conflictos de fusión de forma práctica!
-Esta guía supone que tienes un conocimiento cómodo de los comandos de shell de Unix. Si quieres un repaso, [prueba aquí](https://github.com/you-dont-need/You-Dont-Need-GUI). Esta guía también supone que tienes una cuenta de Github existente y que has [agregado tu clave SSH a ella](https://help.github.com/articles/adding-a-new-ssh-key-to-your-github-account/)
-Esta guía está diseñada como un espacio para practicar los comandos de Git, no solo para enseñarlos. Si solo buscas una referencia rápida, te recomiendo http://rogerdudler.github.io/git-guide/
+# Welcome to git practice!
+This repo is a safe place to practice the basics of git. Try out a rebase without risking any important code! Learn how to sync from an upstream repo! Preactice resolving merge conflicts!
+This guide assumes you have a comfortable knowledge of unix shell commands. If you want a refresher, [try here](https://github.com/you-dont-need/You-Dont-Need-GUI). This guide also assumes you have an existing github account and have [added your ssh key to it](https://help.github.com/articles/adding-a-new-ssh-key-to-your-github-account/)
+This guide is designed as a space to practice git commands, not just teach them. If you are just after a quick reference, I recommend http://rogerdudler.github.io/git-guide/
 
 ## ¿Qué son Git y GitHub?
 Git es un sistema de control de versiones. Realiza un seguimiento de los cambios en los archivos y permite que las personas colaboren en proyectos. Git se utiliza a menudo para proyectos de software, pero se puede utilizar para cualquier proyecto y es especialmente potente para proyectos basados ​​en archivos de texto. Un proyecto en Git se denomina "repositorio" (o repositorio para abreviar). Un repositorio es un conjunto de archivos y directorios. Cada repositorio incluye un directorio .git que contiene información sobre cada cambio realizado en el repositorio.
